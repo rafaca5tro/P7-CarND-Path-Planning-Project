@@ -143,7 +143,7 @@ still be compilable with cmake and make./
 ## Model Documentation
 ![Succesfully compiles](img/img1.png)
 
-As we can see in the image above, the code compiles correctly, I added ![spline library](src/spline.h), as mentioned in the Q&A video at the lessons instead of polynomial approach. Also the car is able to drive more than 4.32 miles without incident.
+As we can see in the image above, the code compiles correctly, I added [spline library](src/spline.h), as mentioned in the Q&A video at the lessons instead of polynomial approach. Also the car is able to drive more than 4.32 miles without incident.
 
 ![Testing Boundaries](img/img2.png)
 
