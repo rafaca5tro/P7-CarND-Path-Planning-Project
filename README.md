@@ -141,11 +141,11 @@ One last note here: regardless of the IDE used, every submitted project must
 still be compilable with cmake and make./
 
 ## Model Documentation
-[Succesfully compiles]('img/img1.png')
+![Succesfully compiles](img/img1.png)
 
-As we can see in the image above, the code compiles correctly, I added [spline library]('src/spline.h'), as mentioned in the Q&A video at the lessons instead of polynomial approach. Also the car is able to drive more than 4.32 miles without incident.
+As we can see in the image above, the code compiles correctly, I added ![spline library](src/spline.h), as mentioned in the Q&A video at the lessons instead of polynomial approach. Also the car is able to drive more than 4.32 miles without incident.
 
-[Testing Boundaries]('img/img2.png')
+![Testing Boundaries](img/img2.png)
 
 As we can observe the in the image above, the car also drives between the suggested boundaries (Speed limit/ Acceleration / Jerk) and without collisions staying in the lane all the time, but changing lane smoothly when passing or returning to the center and considering other cars position (predicting and updating position).
 
